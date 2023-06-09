@@ -63,14 +63,12 @@ const config = {
     {
       institution: 'Institution Name',
       degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      year: '2015',
     },
     {
       institution: 'Institution Name',
       degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      year: '2012',
     },
   ],
 
