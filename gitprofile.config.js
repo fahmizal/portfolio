@@ -37,7 +37,7 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Department of Electrical Engineering and Informatics, Vocational College, Universitas Gadjah Mada,',
+      company: 'Department of Electrical Engineering and Informatics, Vocational College, Universitas Gadjah Mada, Indonesia',
       position: 'Assistant Professor',
       from: 'September 2014',
       to: 'Present',
