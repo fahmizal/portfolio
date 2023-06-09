@@ -37,18 +37,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Department of Electrical Engineering and Informatics, Vocational College, Universitas Gadjah Mada,',
+      position: 'Assistant Professor',
+      from: 'September 2014',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://tedi.sv.ugm.ac.id/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Ardentec Corporation, Taiwan',
+      position: 'Testing IC Wafer Engineer',
+      from: 'Maret 2014',
+      to: 'August 2014',
+      companyLink: 'https://www.ardentec.com/',
     },
   ],
   /* certifications: [
