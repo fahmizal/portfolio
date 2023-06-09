@@ -86,7 +86,7 @@ const config = {
     {
       title: 'Bipedal Robot',
       description:
-        'Linear Inverted Pendulum (LIPM) model untuk pattern walking',
+        'Linear Inverted Pendulum (LIPM) Model for Walking Pattern Bipedal Robot',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://youtu.be/fl3XjUm1izY',
     },
