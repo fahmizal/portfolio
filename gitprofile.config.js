@@ -77,16 +77,16 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'UAV Bicopter',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Design and Attitude Control UAV Bicopter',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
     {
-      title: 'Project Name',
+      title: 'Bipedal Robot',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'Linear Inverted Pendulum (LIPM) model untuk pattern walking',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
