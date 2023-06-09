@@ -61,14 +61,14 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      year: '2015',
+      institution: 'National Taiwan University of Science and Technology',
+      degree: 'M.Sc.',
+      year: '2014',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      year: '2012',
+      institution: 'Institut Teknologi Sepuluh Nopember',
+      degree: 'S.T.',
+      year: '2011',
     },
   ],
 
