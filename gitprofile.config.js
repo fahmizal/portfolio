@@ -81,14 +81,14 @@ const config = {
       description:
         'Design and Attitude Control UAV Bicopter',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://youtu.be/rOh-Y5iN35g',
     },
     {
       title: 'Bipedal Robot',
       description:
         'Linear Inverted Pendulum (LIPM) model untuk pattern walking',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://youtu.be/fl3XjUm1izY',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
