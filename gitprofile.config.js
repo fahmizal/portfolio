@@ -63,12 +63,14 @@ const config = {
     {
       institution: 'National Taiwan University of Science and Technology',
       degree: 'M.Sc.',
-      year: '2014',
+      from: 'January',
+      to: '2014',
     },
     {
       institution: 'Institut Teknologi Sepuluh Nopember',
       degree: 'S.T.',
-      year: '2011',
+      from: 'July',
+      to: '2011',
     },
   ],
 
