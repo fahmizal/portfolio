@@ -80,7 +80,7 @@ const config = {
       title: 'UAV Bicopter',
       description:
         'Design and Attitude Control UAV Bicopter',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://github.com/fahmizal/fahmizal.github.io/blob/main/Bicopter.jpg',
       link: 'https://youtu.be/rOh-Y5iN35g',
     },
     {
