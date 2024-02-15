@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/fahmizal/portfolio/blob/main/Fahmizal_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/fahmizal/fahmizal.github.io/blob/main/Fahmizal_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Control System',
