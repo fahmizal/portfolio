@@ -61,6 +61,12 @@ const config = {
   ], */
   education: [
     {
+      institution: 'Universitas Gadjah Mada',
+      degree: 'Dr.',
+      from: 'January',
+      to: '2024',
+    },
+    {
       institution: 'National Taiwan University of Science and Technology',
       degree: 'M.Sc.',
       from: 'January',
